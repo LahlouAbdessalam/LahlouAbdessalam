@@ -31,5 +31,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="http://www.github.com/LahlouAbdessalam"><img src="https://github-readme-stats.vercel.app/api?username=LahlouAbdessalam&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=3382ed&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="LahlouAbdessalam's GitHub stats" /></a>
 
 <a href="http://www.github.com/LahlouAbdessalam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LahlouAbdessalam&stroke=3382ed&background=000000&ring=ffffff&fire=ffffff&currStreakNum=3382ed&currStreakLabel=ffffff&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
-
-<a href="https://github.com/LahlouAbdessalam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LahlouAbdessalam&langs_count=10&title_color=ffffff&text_color=3382ed&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
