@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Lyon
 * ✉️  You can contact me at [abdessalam.lahlou.pro@gmail.com](mailto:abdessalam.lahlou.pro@gmail.com)
-* 🧠  I'm learning I'm currently learning Figma and UX/UI design, while also focusing on backend tools and other related aspects...
+* 🧠  I'm currently learning Figma and UX/UI design, while also focusing on backend tools and other related aspects...
 * 🤝  I'm open to collaborating on web dev projects !
 * ⚡  When I'm not conjuring code magic, you can bet I'm probably on a virtual quest in the gaming realm – because, hey, who needs a break when you can respawn in another world? 🎮✨ #CodeAndGameOn
 
