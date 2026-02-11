@@ -13,9 +13,9 @@ Data + Product mindset: I build decision-ready dashboards and KPIs — focusing 
 * 💬  Ask me about: KPI design, dashboard storytelling, and turning analyses into actions
 
 ##  Certifications (in progress)
-- **PSPO I** — Professional Scrum Product Owner I (Scrum.org)
-- **PL-300** — Power BI Data Analyst (Microsoft)
-- **ECBA** — Entry Certificate in Business Analysis (IIBA)
+- **PSPO I** — Professional Scrum Product Owner I (Scrum.org)-2026
+- **PL-300** — Power BI Data Analyst (Microsoft)-2026
+- **ECBA** — Entry Certificate in Business Analysis (IIBA)-2026
 
 ##  Core stack
 - **Power BI:** DAX measures, data modeling, interactive dashboards
