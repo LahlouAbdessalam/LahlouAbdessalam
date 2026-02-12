@@ -1,30 +1,29 @@
- Abdessalam Lahlou
+Abdessalam Lahlou
 ==========================================================================================================================================
 
 Data Analyst / BI
 -----------------
 
-Data + Product mindset: I build decision-ready dashboards and KPIs — focusing on **Power BI (DAX / Power Query)**, **SQL** and **Python**.
+Data + Product mindset: I build decision-ready dashboards and KPIs — focusing on **Power BI (DAX / Power Query)**, **SQL**, **Python**, and **AI-driven automation** (in progress).
 
 * 🌍  I'm based in Lyon
 * ✉️  You can contact me at [abdessalam.lahlou.pro@gmail.com](mailto:abdessalam.lahlou.pro@gmail.com)
-* 🧠  Current focus: Power BI (DAX, data modeling) • Power Query (M) • SQL • Python • Advanced Excel
+* 🧠  Current focus: Power BI (DAX, data modeling) • Power Query (M) • SQL • Python • Advanced Excel • AI & automation
 * 👥  Open to collaborate on: Power BI dashboards, Excel analytics, SQL reporting
 * 💬  Ask me about: KPI design, dashboard storytelling, and turning analyses into actions
 
-##  Certifications (in progress)
-- **PSPO I** — Professional Scrum Product Owner I (Scrum.org)-2026
-- **PL-300** — Power BI Data Analyst (Microsoft)-2026
-- **ECBA** — Entry Certificate in Business Analysis (IIBA)-2026
+## Certifications (in progress)
+- **PSPO I** — Professional Scrum Product Owner I (Scrum.org) — target 2026
+- **PL-300** — Power BI Data Analyst (Microsoft) — target 2026
+- **ECBA** — Entry Certificate in Business Analysis (IIBA) — target 2026
 
-##  Core stack
+## Core stack
 - **Power BI:** DAX measures, data modeling, interactive dashboards
 - **Power Query (M):** data cleaning & transformations
 - **SQL:** analysis & reporting (PostgreSQL)
-- **Python:** data analysis
+- **Python:** data analysis & automation scripts
 - **Excel (advanced):** Pivot Tables, dashboards, reporting
-
-
+- **AI & Automation (in progress):** automated reporting, KPI monitoring/alerts, insight summarization
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
